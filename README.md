@@ -84,7 +84,7 @@ npx serve
 
 ## 👨‍💻 Author
 
-**Anubhab Das**\
+**Anubhab Das**
 - GitHub: https://github.com/anubhab7105 
 - LinkedIn: https://www.linkedin.com/in/anubhab7105
 
