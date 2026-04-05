@@ -19,25 +19,25 @@ touchless control of complex visual systems directly in the browser.
 
 ## ✨ Features
 
--   🎯 Real-time hand tracking using MediaPipe\
--   🌌 Interactive 3D particle system (\~15,000 particles)\
+-   🎯 Real-time hand tracking using MediaPipe
+-   🌌 Interactive 3D particle system (\~15,000 particles)
 -   🖐 Gesture-based controls:
-    -   Open Hand → Rotate & change colors\
-    -   Pinch → Expand / contract particles\
-    -   Fist (hold) → Switch particle shapes\
+-   Open Hand → Rotate & change colors
+-   Pinch → Expand / contract particles
+-   Fist (hold) → Switch particle shapes
 -   🔄 Smooth morphing between shapes:
-    -   Sphere, Heart, Saturn, Flower, DNA\
--   🎥 Floating live camera preview\
+-   Sphere, Heart, Saturn, Flower, DNA
+-   🎥 Floating live camera preview
 -   ⚡ Optimized for high-performance desktop rendering
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
--   Three.js\
--   WebGL\
--   MediaPipe Hands\
--   JavaScript (Vanilla)\
+-   Three.js
+-   WebGL
+-   MediaPipe Hands
+-   JavaScript (Vanilla)
 -   HTML/CSS
 
 ------------------------------------------------------------------------
@@ -75,9 +75,9 @@ npx serve
 
 ## 🚀 Future Improvements
 
--   GPU-based particles (GPGPU)\
--   Post-processing effects\
--   Multi-hand support\
+-   GPU-based particles (GPGPU)
+-   Post-processing effects
+-   Multi-hand support
 -   Mobile optimization
 
 ------------------------------------------------------------------------
